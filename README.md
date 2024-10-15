@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Jules-Pelissou
 - 👀 I’m interested in devloppement and technological innovations.
-- 🌱 I’m currently learning in MMI (Métiers du Multimedia et de l'Internet) in Castres, France.
+- 🌱 I’m currently learning in ISIS (Informatique et Systeme d'Information pour la Santé) in Castres, France.
